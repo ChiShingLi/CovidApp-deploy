@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChiShingLi/CovidApp-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ChiShingLi/CovidApp-deploy/static/js/main.40d17a28.chunk.js",
+    "main.js.map": "/ChiShingLi/CovidApp-deploy/static/js/main.40d17a28.chunk.js.map",
+    "runtime-main.js": "/ChiShingLi/CovidApp-deploy/static/js/runtime-main.201090ad.js",
+    "runtime-main.js.map": "/ChiShingLi/CovidApp-deploy/static/js/runtime-main.201090ad.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/ChiShingLi/CovidApp-deploy/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.95eedc88.chunk.js": "/ChiShingLi/CovidApp-deploy/static/js/2.95eedc88.chunk.js",
+    "static/js/2.95eedc88.chunk.js.map": "/ChiShingLi/CovidApp-deploy/static/js/2.95eedc88.chunk.js.map",
+    "index.html": "/ChiShingLi/CovidApp-deploy/index.html",
+    "precache-manifest.759e8c7cca060a7f72dd3823d17448db.js": "/ChiShingLi/CovidApp-deploy/precache-manifest.759e8c7cca060a7f72dd3823d17448db.js",
+    "service-worker.js": "/ChiShingLi/CovidApp-deploy/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/ChiShingLi/CovidApp-deploy/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ChiShingLi/CovidApp-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.95eedc88.chunk.js.LICENSE.txt": "/ChiShingLi/CovidApp-deploy/static/js/2.95eedc88.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/ChiShingLi/CovidApp-deploy/static/media/github.2977a212.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.201090ad.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.95eedc88.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.40d17a28.chunk.js"
+  ]
+}
