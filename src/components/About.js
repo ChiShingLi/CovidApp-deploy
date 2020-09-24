@@ -12,6 +12,7 @@ function About() {
                 <br />
                  *All the COVID data are gathered from (http://covid19api.com/) API.
                  <br />
+                 You can find me at: (https://github.com/ChiShingLi/)
             </Container>
 
         </div>

@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 import TopNavbar from "./components/TopNavbar";
 import Footer from "./components/Footer";
-import { HashRouter , Route } from "react-router-dom";
+import { HashRouter as Router , Route } from "react-router-dom";
 import About from "./components/About";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -15,10 +15,10 @@ ReactDOM.render(
   <React.StrictMode>
     <div style={{ background: "#F2F2F2" }}>
       <TopNavbar />
-      <HashRouter basename="/">
+      <Router basename="/">
         <Route exact path="/" component={App} />
         <Route path="/About" component={About}/>
-      </HashRouter>
+      </Router>
       <Footer />
     </div>
   </React.StrictMode>,
