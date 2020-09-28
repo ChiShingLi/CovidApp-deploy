@@ -39,7 +39,7 @@ class Summary extends Component {
         let output = country.map(ResultItem => {
             return (
                     <tr key={ResultItem.Country}>
-                        <td><a href={`/Detail/${ResultItem.CountryCode}`}>{ResultItem.Country}</a></td>
+                        <td><a href={`#/Detail/${ResultItem.CountryCode}`}>{ResultItem.Country}</a></td>
                         <td>{ResultItem.NewConfirmed.toLocaleString()}</td>
                         <td>{ResultItem.TotalConfirmed.toLocaleString()}</td>
                         <td>{ResultItem.NewRecovered.toLocaleString()}</td>
